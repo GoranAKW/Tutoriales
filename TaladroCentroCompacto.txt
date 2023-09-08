@@ -1,0 +1,13 @@
+(Made by G Can CNC, Goran Arne Kronstrom Wiklund)
+G17 G90 G21 G54
+G0 Z3.000
+M3 S10000
+M8
+G0 X0.000 Y0.000
+G0 Z1.000
+G1 Z-5.000 F5.00
+G0 Z3.000
+M9
+M5
+G17 G90
+M2
